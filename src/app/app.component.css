@@ -1,0 +1,45 @@
+.backColor{
+  background: gray;
+  text-align: center;
+  margin: 20px 10px 20px 15px;
+  border: solid 10px black;
+  padding: 10px;
+}
+
+.negrito {
+  color: yellow;
+}
+
+.foto {
+  width: 100%;
+}
+
+.testeCss {
+  border: solid 5px;
+  padding: 25px;
+  margin: 10px;
+}
+
+.paddingFoto {
+  padding: 20px;
+}
+
+.itens {
+  font-style: italic;
+  text-align: left;
+}
+
+.imagemBeneficios {
+  width: 50%;
+}
+
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
+
+.tituloPrincipal{
+  padding-left: 20px;
+}
